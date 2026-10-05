@@ -14,7 +14,7 @@ website:
   title: "Your Name"
   description: "A student website about research, work, and the world beyond class."
   # Later, when published, uncomment and replace the address below.
-  # site-url: "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
+  # site-url: "https://TripleKGandTheBigShow.github.io/Personal_Website/"
   navbar:
     left:
       - text: Home

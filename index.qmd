@@ -1,48 +1,48 @@
 ---
-title: "Home"
+title: "Johnny Amato"
 body-classes: home-page
 page-layout: full
 ---
 
 <!-- HOME: replace the name, introduction, and email below. Keep the ::: layout lines. -->
-<!-- PREVIEW: first use Build > Render Website to generate every page, then Render this file. -->
 :::: {.home-hero}
 ::: {.hero-copy}
-[STUDENT / RESEARCHER / EXPLORER]{.eyebrow}
+[STUDENT / TEACHER / EXPLORER]{.eyebrow}
 
-# Your Name {.display-name}
+# Johnny Amato {.display-name}
 
-[Making sense of the social world.]{.hero-subtitle}
+[One day at a time.]{.hero-subtitle}
 
-I'm an undergraduate interested in people, politics, and what we can learn from data. This is a place for my projects, the questions I'm working through, and a few notes from beyond the classroom.
+I'm an undergraduate student at Loyola Marymount University studying political science and I have been a preschool teacher at the Plymouth School in Los Angeles for the last six years. This is a place for my projects, the questions I'm working through, and a few notes from beyond the classroom.
 
-[Explore my research](research.qmd){.primary-link} [Say hello](mailto:you@example.com){.quiet-link}
+[Explore my research](research.qmd){.primary-link} [Say hello](mailto:yohnnyamato@gmail.com){.quiet-link}
 :::
 
 ::: {.hero-photo}
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/profile.jpg){fig-alt="Orange flowers, a sample image for this personal website."}
+![](images/Johnny.PNG){fig-alt="Crazy day at Point Du Hoc."}
 :::
 ::::
 
 :::: {.home-notes}
 ::: {.home-note}
-[01 / IN THE CLASSROOM]{.eyebrow}
+[01 / OUT IN THE WORLD]{.eyebrow}
 
-## Questions worth asking
+## Questions we may ask
 
-How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+How do our lived experiences change how we look at the world? How do people view the world outside of themselves? Join me while I try to answer these questions in my project sections.
 
 [Academic interests & research](research.qmd)
 :::
 
 ::: {.home-note}
-[02 / BEYOND THE CLASSROOM]{.eyebrow}
+[02 / THE INNER MACHINATIONS]{.eyebrow}
 
-## Learning by noticing
+## These thoughts of mine 
 
-A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
+To make sense of the world around me, it helps to put my thoughts to words. Whether I'm venting about a bad day, acknowledging and achievement or just working on some creative writing, its going in my blog section
 
-[Read my latest notes](blog.qmd)
+
+[Check out my blog here](blog.qmd)
 :::
 ::::

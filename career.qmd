@@ -1,13 +1,13 @@
 ---
-title: "Profession & career"
-subtitle: "The work I've done and the work I'd like to try."
+title: "Career"
+subtitle: "Work I have done over the past few years."
 ---
 
 <!-- CAREER: replace these examples with your own experience. Class and volunteer projects count. -->
 
 ## Where I'd like to go
 
-I'm exploring opportunities that combine research, clear communication, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+My first goal is to finish my bachelors degree in Political Science at LMU. From there, I plan to pivot into nursing. Over the years I've learned that I need a job where I am on my feet and working with other people. 
 
 ## Experience
 
@@ -18,6 +18,22 @@ I'm exploring opportunities that combine research, clear communication, and work
 - Explore a social question using a public dataset.
 - Create a visualization in R and explain the choices behind it.
 - Share code and notes so a classmate can follow the analysis.
+
+### Preschool teacher 
+
+[FALL 2020 - ONGOING]{.project-label}
+
+- Manage a classroom of 20 young children ages 2-5.
+- Potty train, resolve conflict, make lunches.
+- Interact with parents to keep them up to date on their child's development.
+
+### Surf Instructor
+
+[2015 - 2019]{.project-label}
+
+- Taught children and teenagers ages 5-15 how to surf.
+- Contributed to the daily operations.
+- Worked closely with clients and coworkers to deliver the best experience.
 
 <!-- Add another role or volunteer project here if useful.
      Use a heading for the role, then a date and 2–3 concrete contributions.
@@ -31,11 +47,12 @@ I'm exploring opportunities that combine research, clear communication, and work
 
 **Collaboration:** giving useful feedback, documenting work, and contributing to a shared project.
 
+
 ## Let's connect
 
-I'm happy to talk about projects, internships, and opportunities to learn.
+Feel free to reach out to me anytime.
 
-[Email me](mailto:you@example.com)
+[Email me](mailto:yohnnyamato@gmail.com)
 
 <!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. -->
 <!-- OPTIONAL CV: create a files/ folder, add resume.pdf, then use [My resume](files/resume.pdf). -->
