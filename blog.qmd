@@ -1,6 +1,6 @@
 ---
 title: "Notes & reflections"
-subtitle: "Ideas from class, projects, and everyday life."
+subtitle: "This is where you can find my thoughts."
 # The list updates automatically when you add a .qmd file to posts/ and render the website.
 listing:
   contents: posts/*.qmd
