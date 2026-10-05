@@ -1,0 +1,27 @@
+---
+title: "Doctors, ugh!"
+date: "2026-10-01"
+description: "My Day At The Clinic."
+---
+
+<!-- COPY this file into posts/ and rename it, for example my-first-post.qmd. -->
+<!-- Change the title, date (YYYY-MM-DD), and description above. Then write below. -->
+
+## What A Day
+
+After far too long, I finally figured out my health insurance situation so it was high time that I actually put medical to use. I was feeling lousy all week and since I missed a few days of classes, the wolves were at my door and I needed a doctors note. 
+
+I went to a clinic nearby and it was smooth getting in. Once I was in the check-up room I made some small talk with the technician, asking how they liked their job. The tech offered to let me do my own Covid test and I obliged remarking that I had plenty of experience during the pandemic swabbing my own nose.
+
+Some time passed and my tests came back negative for Covid and Influenza and the PA came in to ask me some questions, check my lungs with the stethoscope and looked down my gullet for strep. Even with all that, she couldn't figure out what was making me feel so ill. As she was halfway out the door to get some more tests, she asked me if I needed a doctors note. The tone of her voice harmonized with the look on her face that sang the melody that was on my mind. I nodded, she winked and stepped out of the room.
+
+A nurse came in shortly thereafter and told me she needed to swab my throat. I said of course and let her go about her business. This nurse shoved the swab all the way to my uvula which made me gag hard enough that I could see her wince as she pulled the swab out. We both connected over a hearty chortle and we were both on our way out. 
+
+I left feeling a mix of accomplishment and dissatisfaction with the fact that they couldn't figure out what my exact ailment was. But one thing is certain: I got my damn doctor's note. 
+
+
+
+<!-- OPTIONAL PHOTO: put your image in images/ and remove the comment marks below. -->
+<!-- ![](../images/travel.jpg){fig-alt="Describe the photo for a reader who cannot see it."} -->
+
+[Back to all posts](../blog.qmd)
