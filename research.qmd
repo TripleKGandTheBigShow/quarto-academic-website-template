@@ -5,6 +5,10 @@ subtitle: "What I have been working on lately."
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
 
+```{=html}
+<iframe width="100%" height="500" src="research_poster.html" title="Local HTML Content"></iframe>
+```
+
 ## What I'm curious about
 
 I landed into Political Science because I was having numerous debates with friends who held all sorts of political beliefs and my most convincing arguments were arguments backed by statistics. However, statistics can never tell the full story. 
