@@ -5,9 +5,8 @@ subtitle: "What I have been working on lately."
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
 
-```{=html}
-<iframe width="200%" height="500" src="research_poster.html" title="Local HTML Content"></iframe>
-```
+
+[Check out this assignment I worked on](research_poster.html)
 
 ## What I'm curious about
 
